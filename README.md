@@ -32,7 +32,6 @@ _puis teste les fonctions de 1 à 8_
 
 <li>Interchanger les cars  ==> </li>
 
-<li>Interchanger les cars <== </li>
 
 </ol>
 
