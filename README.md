@@ -30,9 +30,9 @@ _puis teste les fonctions de 1 à 8_
 
 <li>Survol bouton view</li>
 
-<li>Interchanger les cars `==>`</li>
+<li>Interchanger les cars  _==>_ </li>
 
-<li>Interchanger les cars `<==`</li>
+<li>Interchanger les cars _<==_/li>
 
 </ol>
 
